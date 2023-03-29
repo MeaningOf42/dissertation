@@ -1,0 +1,7 @@
+__pycache__/
+__pycache__/*
+venv/
+venv/*
+MDLib2.2/
+MDLib2.2/*
+*.npy
